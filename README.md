@@ -1,8 +1,8 @@
 # Mongoid::Enum
 
 [![Build
-Status](https://travis-ci.org/thetron/mongoid-enum.png)](https://travis-ci.org/thetron/mongoid-enum)
-[![Code Climate](https://codeclimate.com/github/thetron/mongoid-enum.png)](https://codeclimate.com/github/thetron/mongoid-enum)
+Status](https://travis-ci.org/romarioclacino/mongoid-enum.png)](https://travis-ci.org/romarioclacino/mongoid-enum)
+[![Code Climate](https://codeclimate.com/github/romarioclacino/mongoid-enum.png)](https://codeclimate.com/github/romarioclacino/mongoid-enum)
 
 Heavily inspired by [DHH's
 ActiveRecord::Enum](https://github.com/rails/rails/commit/db41eb8a6ea88b854bf5cd11070ea4245e1639c5), this little library is
@@ -163,6 +163,6 @@ enum :status, [:up, :down], :validate => false
 # Issues and Feature Requests
 
 If you have any problems, or you have a suggestion, please [submit an
-issue](https://github.com/thetron/mongoid-enum/issues) (and a failing
+issue](https://github.com/romarioclacino/mongoid-enum/issues) (and a failing
 test, if you can). Pull requests and feature requests are alwasy welcome
 and greatly appreciated.
